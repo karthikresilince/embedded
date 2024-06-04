@@ -1,2 +1,13 @@
-#include<stdio.h>
+void setup() 
+{
+  void init_portf();
+  void init_portk();
+}
+
+void loop() 
+{
+  void set_1();
+ 
+}
+
 
